@@ -115,7 +115,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"FundMe.sol": "FundMe"
+			"contracts/FundMe.sol": "FundMe"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -137,7 +137,7 @@
 				"dweb:/ipfs/QmaG6vz6W6iEUBsbHSBob5mdcitYxWjoygxREHpsJHfWrS"
 			]
 		},
-		"FundMe.sol": {
+		"contracts/FundMe.sol": {
 			"keccak256": "0xc59bda87bd98a3e5bce6bec2a60cecbf32f7ff32cc0911cf2d712bed499a886b",
 			"license": "MIT",
 			"urls": [
@@ -145,7 +145,7 @@
 				"dweb:/ipfs/QmSvaB2ypCW4rT4dCP6UEX8aBoNox2RhxoyozAATonBcTa"
 			]
 		},
-		"PriceConverter.sol": {
+		"contracts/PriceConverter.sol": {
 			"keccak256": "0xcca6a9f260842b4465eb07500ebb6d082361481470ece3fffb25e731a7eb962a",
 			"license": "MIT",
 			"urls": [
