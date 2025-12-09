@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.30+commit.73712a01"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
@@ -18,9 +18,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"PriceConverter.sol": "PriceConverter"
+			"contracts/FundMe.sol": "PriceConverter"
 		},
-		"evmVersion": "prague",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -40,12 +40,12 @@
 				"dweb:/ipfs/QmaG6vz6W6iEUBsbHSBob5mdcitYxWjoygxREHpsJHfWrS"
 			]
 		},
-		"PriceConverter.sol": {
-			"keccak256": "0xcca6a9f260842b4465eb07500ebb6d082361481470ece3fffb25e731a7eb962a",
+		"contracts/FundMe.sol": {
+			"keccak256": "0xdc99b56d617f15ddf3bc634be7c2bf490f2d96ba12619924fd4c8ece29de40ed",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b696de0c0bd1f2114df71e8cab608b685fbc68bb52991812a1925ec7f1a81eff",
-				"dweb:/ipfs/QmQqvGqRvzUR1RZQTiutmnJKLT5t1FrgRuGFUytc3K6w9Y"
+				"bzz-raw://0a42519236d0a973e123f703bdb80a7a47344adc608028ff9889be08b57f4390",
+				"dweb:/ipfs/QmSwYkADMoBscdntS9VjcrH3ExwbiSHqPvrA4Stp3phb5s"
 			]
 		}
 	},

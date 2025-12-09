@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.30+commit.73712a01"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
@@ -117,7 +117,7 @@
 		"compilationTarget": {
 			"contracts/FundMe.sol": "FundMe"
 		},
-		"evmVersion": "prague",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -138,19 +138,19 @@
 			]
 		},
 		"contracts/FundMe.sol": {
-			"keccak256": "0xc59bda87bd98a3e5bce6bec2a60cecbf32f7ff32cc0911cf2d712bed499a886b",
+			"keccak256": "0x31cf8431d150465991a5515a791bbdc94f404971af5b1055fa8349b0b58e70b3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b3b358070c700c36d19f91d004019b185cc61893c250d1ab0427ab65c0641fb3",
-				"dweb:/ipfs/QmSvaB2ypCW4rT4dCP6UEX8aBoNox2RhxoyozAATonBcTa"
+				"bzz-raw://b21c6b6c92c654a6482a2d6cd879fec941d7a6b8ff077a8795b156d6b161678f",
+				"dweb:/ipfs/Qmb6z5PqaAY3pwwJakzPGyBWQMARpuBavLfcup2B7fN1Ag"
 			]
 		},
 		"contracts/PriceConverter.sol": {
-			"keccak256": "0xcca6a9f260842b4465eb07500ebb6d082361481470ece3fffb25e731a7eb962a",
+			"keccak256": "0x8f53cd2000f8f80510fb9f8318766427464da3885fd0f72430df3ced7d5dd360",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b696de0c0bd1f2114df71e8cab608b685fbc68bb52991812a1925ec7f1a81eff",
-				"dweb:/ipfs/QmQqvGqRvzUR1RZQTiutmnJKLT5t1FrgRuGFUytc3K6w9Y"
+				"bzz-raw://6600ee659c670da1782a11a14ea49ad9d15d914668271109e31bff164fbfcf59",
+				"dweb:/ipfs/Qmc2pvV8QmH7mXychEE8vgw1iGs36r9PjA5UkLVzfvsEPw"
 			]
 		}
 	},
